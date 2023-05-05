@@ -9,7 +9,7 @@ de objetos, que faça:
 a. Inicialize uma nova fila
 b. Insira 20 clientes com suas características, sendo:
 i. Nome (Cliente1, Cliente2, Cliente3, ...)
-ii. Quan�dade de peças (Número entre 20 e 50)
+ii. Quantidade de peças (Número entre 20 e 50)
 iii. Valor das Peças (Número entre 5.00 e 100.00)
 
 3) Criar uma classe controller chamada OperacaoController, que tenha um método
