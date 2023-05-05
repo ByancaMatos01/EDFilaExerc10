@@ -1,7 +1,7 @@
 # EDFilaExerc10
 
 10. Uma determinada loja vende peças no atacado, mas, para comprar no atacado, cada cliente
-pode comprar apenas um �po de peça. Criar uma aplicação java, baseada na biblioteca da fila
+pode comprar apenas um tipo de peça. Criar uma aplicação java, baseada na biblioteca da fila
 de objetos, que faça:
 1) Criar um objeto model com os atributos:
 
